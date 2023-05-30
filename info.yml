@@ -1,10 +1,12 @@
 project:
-  name: 'Motero2k test project'
+  name: 'test project 2(slack)'
   owner: 'motero2k'
-  teamId: 'mk-20'
+  teamId: 'mk-21'
   identities:
     pivotal: 'https://www.pivotaltracker.com/n/projects/2487566'
     heroku: 'https://goldenflow-showcase-project.herokuapp.com/'
+  notifications:
+    slack_enc: U2FsdGVkX189rAbgizwUg3ATsf18/8Ma4+jQPSYr/cVEnOb7y0+lhFKylOEvYDfGrNAwtpFG+OJM0V4WZfuJrPn8zwDp/FOSp9knJfsqNFPcC9v7N2etfdxMk5FQuNiOLtruXbOGJzx1RcZTZ3Lt1w==
   members:
     member1:
       name: 'Manuel'
