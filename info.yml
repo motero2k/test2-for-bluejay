@@ -1,6 +1,6 @@
 project:
-  name: 'test project 2(slack)'
-  owner: 'motero2k'
+  name: 'test2 crypted slack'
+  owner: 'mk-test2'
   teamId: 'mk-21'
   identities:
     pivotal: 'https://www.pivotaltracker.com/n/projects/2487566'
